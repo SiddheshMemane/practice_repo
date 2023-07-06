@@ -1,2 +1,4 @@
+changed some lines in main3
 new changes.
 1 line in dev
+main3 change
